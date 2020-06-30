@@ -1,6 +1,10 @@
-# disenos
+# diseños Flutter
 
-A new Flutter project.
+Aplicacion compuesta de 3 diseños en Flutter
+
+![diseño_1](./screenshots/1.png)
+![diseño_2](./screenshots/2.png)
+![diseño_3](./screenshots/3.png)
 
 ## Getting Started
 
